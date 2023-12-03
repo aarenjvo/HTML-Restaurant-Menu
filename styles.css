@@ -53,34 +53,6 @@ nav a:hover {
     color: darkred;
 }
 
-nav ul li a:hover {
-    color: red; /* Change color on hover for the Home link */
-}
-
-nav ul li:nth-child(2) a:hover {
-    color: blue; /* Change color on hover for the Menu link */
-}
-
-nav ul li:nth-child(3) a:hover {
-    color: orange; /* Change color on hover for the About link */
-}
-
-nav ul li:nth-child(4) a:hover {
-    color: purple; /* Change color on hover for the Contact link */
-}
-
-
-.About ul li {
-    text-align: center;
-    padding-right: 30px;
-}
-
-ul li {
-    list-style: none;
-}
-
-
-
 #banner {
     width: 100%;
     height: auto;
